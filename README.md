@@ -1,4 +1,4 @@
-# TR_ICRL
+# TR-ICRL
 
 ## 📚Overview
 
