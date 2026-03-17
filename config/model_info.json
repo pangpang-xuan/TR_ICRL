@@ -1,0 +1,13 @@
+{
+    "API_MODEL": [
+        "Qwen2.5-7B-Instruct",
+        "Qwen3-8B",
+        "Llama-3.1-8B-Instruct",
+        "Mistral-7B-Instruct",
+        "DeepSeek-R1-Distill-Llama-8B",
+        "DeepSeek-R1-0528-Qwen3-8B",
+        "GLM4-9B",
+        "Gemma2-9B",
+        "Qwen3-32B"
+    ]
+}

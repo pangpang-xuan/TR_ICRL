@@ -1,0 +1,39 @@
+{
+    "aime2024": {
+        "tasks": [],
+        "input_path": "data/aime2024/input/",
+        "demo_path": "data/medqa/demonstrations/"
+    },
+    "aime2025": {
+        "tasks": [],
+        "input_path": "data/aime2025/input/",
+        "demo_path": "data/medqa/demonstrations/"
+    },
+    "amc": {
+        "tasks": [],
+        "input_path": "data/amc/input/",
+        "demo_path": "data/medqa/demonstrations/"
+    },
+    "gsm8k": {
+        "tasks": [],
+        "input_path": "data/gsm8k/input/",
+        "demo_path": "data/medqa/demonstrations/"
+    },
+    "math500": {
+        "tasks": [],
+        "input_path": "data/math500/input/",
+        "demo_path": "data/medqa/demonstrations/"
+    },
+    "medqa": {
+        "tasks": [],
+        "input_path": "data/medqa/input/",
+        "demo_path": "data/medqa/demonstrations/"
+    },
+    "medxpertqa": {
+        "tasks": [
+            "text"
+        ],
+        "input_path": "data/medxpertqa/input/",
+        "demo_path": "data/medxpertqa/demonstrations/"
+    }
+}
