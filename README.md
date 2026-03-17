@@ -26,7 +26,7 @@ bash reasoning_vllm.sh # launch reasoning model
 
 We use VLLM Online inference and the port for embedding model is 8080 and the port for reasoning model in 8848.
 
-3. 🤔Start CURE
+3. 🤔Start
 
 ```
 bash scripts/tt_icrl.sh
